@@ -23,6 +23,11 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+sh {
+    font-size: 1.8em;
+    line-height: 1.4em;
+    color: #4B0082;
+}
 p {
     font-size: 1.3em;
     line-height: 1.4em;
