@@ -1,2 +1,2 @@
 # JULIAN FAUST
-Personal website for Julian Faust, UC Berkeley '22.
+Personal website for Julian Faust.
